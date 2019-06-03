@@ -42,3 +42,5 @@ $ docker-compose up
 - compose/django/Dockerfile-dev
 
 개발용 컨테이너를 만들기 위한 Dockerfile (배포용 Dockerfile과 살짝 다름)
+
+[참조](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
